@@ -8,3 +8,4 @@
 # Windsurf:  import ใน .windsurfrules
 
 @skills/thai-document-extractor/skill.md
+@skills/thai-slip-extractor/skill.md

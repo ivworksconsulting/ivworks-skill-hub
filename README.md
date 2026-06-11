@@ -37,6 +37,7 @@ See guides/windsurf.md
 | Skill | ทำอะไร | Tags |
 |---|---|---|
 | [thai-document-extractor](./skills/thai-document-extractor/) | แปลงเอกสารธุรกิจไทย → JSON | `documents` `thai` `extraction` |
+| [thai-slip-extractor](./skills/thai-slip-extractor/) | อ่านสลิปโอนเงินไทย → JSON | `payments` `thai` `extraction` |
 
 ---
 
