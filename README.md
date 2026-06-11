@@ -10,11 +10,11 @@ AI agent skills สำหรับงานธุรกิจ — Claude-first �
 
 ### Claude (CLAUDE.md)
 ```markdown
-@https://raw.githubusercontent.com/ivworks/ivworks-skill-hub/main/agents.md
+@https://raw.githubusercontent.com/ivworksconsulting/ivworks-skill-hub/main/agents.md
 ```
 หรือเลือก skill เดี่ยว:
 ```markdown
-@https://raw.githubusercontent.com/ivworks/ivworks-skill-hub/main/skills/thai-document-extractor/skill.md
+@https://raw.githubusercontent.com/ivworksconsulting/ivworks-skill-hub/main/skills/thai-document-extractor/skill.md
 ```
 
 ### Cursor (.cursorrules)
