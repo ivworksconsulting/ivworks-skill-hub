@@ -39,6 +39,7 @@ See guides/windsurf.md
 | [thai-document-extractor](./skills/thai-document-extractor/) | แปลงเอกสารธุรกิจไทย → JSON | `documents` `thai` `extraction` |
 | [thai-slip-extractor](./skills/thai-slip-extractor/) | อ่านสลิปโอนเงินไทย → JSON | `payments` `thai` `extraction` |
 | [thai-shop-reply](./skills/thai-shop-reply/) | ข้อความลูกค้า → intent + ร่างคำตอบสุภาพ | `chat` `thai` `customer-service` |
+| [thai-meeting-to-action](./skills/thai-meeting-to-action/) | บันทึกประชุมไทย → สรุป + action items | `meetings` `thai` `productivity` |
 
 ---
 
