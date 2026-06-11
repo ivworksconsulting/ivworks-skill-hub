@@ -9,3 +9,4 @@
 
 @skills/thai-document-extractor/skill.md
 @skills/thai-slip-extractor/skill.md
+@skills/thai-shop-reply/skill.md
